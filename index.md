@@ -15,7 +15,7 @@
 		<div class="container">
     		<div class="blurb">
         		
-				<p></p>
+				<p>I currently live in Mumbai but I hail from Nagpur, a city in central Indian also known as Orange city.</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
