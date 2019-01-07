@@ -6,7 +6,7 @@
 		<div class="container">
     		<div class="blurb">
 		<ul id="menu">
-    <li><a href="harshdolhare.github.io">Home</a></li>
+    <li><a href="https://harshdolhare.github.io">Home</a></li>
     <li><a href="https://drive.google.com/file/d/1Ad5T0d2YTI34hvbQbplKREESahZKUAu3/view?usp=sharing">Resume</a></li>
     
 </ul>
