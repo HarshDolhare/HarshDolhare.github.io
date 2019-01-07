@@ -16,7 +16,7 @@
 		
         		<h1>About me....</h1>
 				<p> I currently live in Mumbai but I hail from Nagpur, a city in central India,  also known as Orange City.
-				I like to read but these days netflix doesn't allow me to do it (:p). I code sometimes.
+				I like to read but these days netflix doesn't allow me to do it (:P). I code sometimes.
 			</p>
 			
 			<p> As of now I have explored the areas of Deep Learning and Natural Language Processing.</p>
