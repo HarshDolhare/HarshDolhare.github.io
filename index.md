@@ -19,10 +19,7 @@
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
-    		<ul>
-        		<li><a href="mailto:harsdolhare99@gmail.com">Contact</a></li>
-        		<li><a href="https://github.com/HarshDolhare">github.com/HarshDolhare</a></li>
-			</ul>
+    		
 		</footer>
 	</body>
 </html>
