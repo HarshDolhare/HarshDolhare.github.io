@@ -12,6 +12,8 @@
 				<p>I currently live in Mumbai but I hail from Nagpur a city in central India also known as Orange city.</p>
     		
 		
-	</body>
-</html>
+	
+	
+<body>
+	<html>
 
