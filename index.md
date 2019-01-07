@@ -12,6 +12,8 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
+		
+		<IMG SRC="github.io/HarshDolhare/HarshDolhare.github.io/profile.png" ALT="some text" WIDTH=32 HEIGHT=32>
         		
 				<p>I currently live in Mumbai but I hail from Nagpur, a city in central Indian also known as Orange city.</p>
     		</div><!-- /.blurb -->
