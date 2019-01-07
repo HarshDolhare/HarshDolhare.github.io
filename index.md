@@ -14,7 +14,7 @@
     		<div class="blurb">
 		
 		
-        	<img src="https://HarshDolhare.github.io/profile.png" class="author__avatar" alt="Harsh" title="A picture of Harsh">	
+        	<img src="https://HarshDolhare.github.io/profile.png" class="author__avatar" alt="Harsh" title="A picture of Harsh" width = 32 height = 32>	
 				<p>I currently live in Mumbai but I hail from Nagpur a city in central India also known as Orange city.</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
